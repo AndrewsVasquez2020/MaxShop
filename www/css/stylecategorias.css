@@ -1,0 +1,15 @@
+.linea{
+	padding: 0 !important;
+}
+.titulo{
+	background-color: #e8505b;
+	margin: 0!important;
+	color: #fff;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 20px;
+	font-family:sans-serif;
+}

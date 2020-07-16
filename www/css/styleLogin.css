@@ -1,0 +1,57 @@
+.Fondo{
+	background: url('../img/Fondo2.jpg');
+	-webkit-background-size:cover;
+}
+
+.Colorlabel{
+	color: gray;
+	font-size: 15px;
+}
+
+.boton{
+	background-color: #bb2331;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 90px;
+    padding: 6px 115px 6px 115px;
+
+}
+
+.LetraBoton{
+	text-decoration: none;
+	color: #fff;
+	font-size: 15px;
+}
+
+.Colorletra{
+	color: gray;
+	font-size: 15px;
+	display: inline-block;
+}
+
+.Colorletra2{
+	color: #fff;
+	font-size: 15px;
+	display: inline-block;
+}
+
+input[type="text"]{
+	background: transparent;
+	border:none;
+}
+
+hr{
+	width: 250px;
+	color: gray;
+}
+
+.centrado{
+	margin-left: 813px;
+}
+
+.centrado2{
+	margin-left: 870px;
+}
+
+

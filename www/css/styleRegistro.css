@@ -1,0 +1,18 @@
+.Fondo{
+	background: url('../img/Fondo2.jpg');
+	-webkit-background-size:cover;
+}
+
+.titulo{
+	color: white;
+	font-size: 25px;
+
+}
+
+.boton1{
+	background-color: #bb2331;
+	border-radius: 90px;
+    padding: 6px 115px 6px 115px;
+    color: #fff;
+
+}
